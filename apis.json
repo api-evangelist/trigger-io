@@ -1,0 +1,78 @@
+{
+    "name": "Trigger.io",
+    "description": "It's the simplest way for web developers to create amazing mobile apps using the best of HTML5 and native. Check out what our customers have built:  https:\/\/trigger.io\/examples",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/trigger-io-logo.png",
+    "tags": [
+        "android",
+        "have api",
+        "profile",
+        "telecommunications"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/trigger-io\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Trigger.io",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/trigger-io-logo.png",
+            "humanURL": "https:\/\/trigger.io\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/trigger-io-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/trigger-io-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/trigger.io\/cross-platform-application-development-blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/trigger.io\/cross-platform-application-development-blog\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/trigger-io"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/trigger-io"
+        },
+        {
+            "type": "Email",
+            "url": "support@trigger.io"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@trigger.io"
+        },
+        {
+            "type": "Email",
+            "url": "corporate@trigger.io"
+        },
+        {
+            "type": "Email",
+            "url": "joe-bloggs@trigger.io"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/triggercorp"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/trigger.io\/"
+        }
+    ]
+}
